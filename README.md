@@ -8,4 +8,7 @@ For every input you need to change in the code in class WebExtractor.java (line:
 
 To see output you need to cahnge path as your local computer go to file output.html in src.
 
+
 You can download datasets from here (TBDW) (https://drive.google.com/file/d/16x6_oyB1NhUP4leUSR1PKpKcH9oM2_CU/view)
+![WhatsApp Image 2023-12-05 at 20 45 51](https://github.com/Srikanth854/Web-Record-Scraping/assets/90303335/e0ef7162-9777-4e97-9de6-0b81ccb22914)
+![WhatsApp Image 2023-12-05 at 21 33 15](https://github.com/Srikanth854/Web-Record-Scraping/assets/90303335/9c90a584-c618-438a-a00b-f71aff43a2f1)

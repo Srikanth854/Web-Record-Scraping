@@ -15,6 +15,7 @@ These are two ouput html files look like for amazon sample web page.
 You can download datasets from here (TBDW) (https://drive.google.com/file/d/16x6_oyB1NhUP4leUSR1PKpKcH9oM2_CU/view)
 
 **Evaluation findings:**
+These are the scores we got while we evaluating the web records with different datasets.
 
 ![image](https://github.com/Srikanth854/Web-Record-Scraping/assets/90303335/68ae3991-f171-4582-9ef6-8fae745effbe)
 
